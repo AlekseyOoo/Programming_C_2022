@@ -1,0 +1,4 @@
+﻿  Arrays_easy.c
+C:\Users\itmm-2213-a\source\repos\TerminalClass\ArraysActions_Easy\Arrays_easy.c(8,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\repos\TerminalClass\ArraysActions_Easy\Arrays_easy.c(19,19): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  ArraysActions_Easy.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClass\x64\Debug\ArraysActions_Easy.exe
